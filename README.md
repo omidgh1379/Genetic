@@ -30,7 +30,7 @@ The core of this project relies on PCA to separate ethnicities based on genetic 
 
 ## Demo
 
-You can try the live version of this app here: [**Link to the live app**](#https://genetic-ahehcymg6cfzegwzpfhefa.streamlit.app/) (e.g., Streamlit Cloud or another hosting platform).
+You can try the live version of this app here: [**Link to the live app**](https://genetic-ahehcymg6cfzegwzpfhefa.streamlit.app/) (e.g., Streamlit Cloud or another hosting platform).
 
 Here’s what you can do with the app:
 - **Upload** your own VCF file to infer your ethnicity.

@@ -11,9 +11,7 @@ This tool was developed using **Python**, **Streamlit**, and **Plotly**, and it 
 3. [Demo](#demo)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Data Format](#data-format)
-7. [Technologies Used](#technologies-used)
-8. [License](#license)
+
 
 ## Overview
 
